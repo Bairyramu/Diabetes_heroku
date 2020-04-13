@@ -1,0 +1,1 @@
+web: gunicorn diabetes_heroku_flask:app
